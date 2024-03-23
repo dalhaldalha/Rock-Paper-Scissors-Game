@@ -41,7 +41,5 @@ int main() {
     cout << "Wrong Input"; //If any other value is inputed other than the given ones, this will return.
   }
 
-  
-
   return 0;
 }
