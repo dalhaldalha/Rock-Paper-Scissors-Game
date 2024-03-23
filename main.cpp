@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-
+  
   srand (time(NULL)); 
 
   char user_input;
